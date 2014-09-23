@@ -14,14 +14,14 @@ html {
 
 #arrow {
 	margin-left: 700px;
-	margin-top: 80px;
+	margin-top: 300px;
 }
 
 .description {
 	border: none;
 	border-radius: 10px;
 	height: 200px;
-	width: 500px;
+	width: 200px;
 	margin-top: 80px;
 	margin-left: 460px;
 	background-color: hsla(200, 7%, 13%, 0.67);
@@ -34,10 +34,9 @@ html {
 }
 
 #me {
-	max-width: 55%;
-	max-height: 55%;
+	max-width: 20%;
+	max-height: 20%;
 	border-radius: 50px;
 	margin-left: 40px;
 	margin-top: 40px;
-	background-color: hsla(200, 7%, 13%, 0.67) ;
 }
