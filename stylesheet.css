@@ -14,22 +14,22 @@ html {
 
 #arrow {
 	margin-left: 700px;
-	margin-top: 300px;
+	margin-top: 200px;
 }
 
 .description {
 	border: none;
 	border-radius: 10px;
-	height: 200px;
-	width: 200px;
+	height: 140px;
+	width:400px;
 	margin-top: 80px;
-	margin-left: 460px;
-	background-color: hsla(200, 7%, 13%, 0.67);
+	margin-left: 510px;
+	background-color: hsla(215, 81%, 100%, 0.33);
 }
 
 #title {
 	text-align: center;
-	color: white;
+	color:hsla(215, 81%, 100%, 0.48);
 	margin: none;
 }
 
@@ -40,3 +40,35 @@ html {
 	margin-left: 40px;
 	margin-top: 40px;
 }
+
+#facebook {
+	padding: 5px;
+}
+
+#github {
+	padding: 5px;
+}
+
+#linkedin {
+	padding: 5px;
+}
+
+#twitter {
+	padding: 5px;
+}
+
+#insta {
+	padding: 5px;
+}
+
+#subtext {
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+	margin-top: 20px;
+	font-weight: 100px;
+	font-size: 20px;
+}
+
+
+
+
